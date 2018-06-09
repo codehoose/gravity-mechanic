@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravity Mechanic", "Gravity Mechanic.csproj", "{FFD78557-AA57-25C3-F34E-44DD3CF36D2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD78557-AA57-25C3-F34E-44DD3CF36D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD78557-AA57-25C3-F34E-44DD3CF36D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD78557-AA57-25C3-F34E-44DD3CF36D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD78557-AA57-25C3-F34E-44DD3CF36D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
