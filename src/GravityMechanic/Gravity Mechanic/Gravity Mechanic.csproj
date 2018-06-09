@@ -288,6 +288,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\GameController.cs" />
+    <Compile Include="Assets\Scripts\GravityChanger.cs" />
+    <Compile Include="Assets\Scripts\Locomotion.cs" />
+    <Compile Include="Assets\Scripts\TouchBlock.cs" />
+    <Compile Include="Assets\Scripts\TouchExit.cs" />
     <Compile Include="Assets\Scripts\ToxicFork\TextureAtlasSlicer.cs" />
   </ItemGroup>
   <ItemGroup>
